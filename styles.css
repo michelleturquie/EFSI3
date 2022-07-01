@@ -1,0 +1,54 @@
+#logo {
+
+    width: 90px;
+
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 1rem;
+    font-size: large;
+}
+
+.card{
+    width: 23rem; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: medium solid lightblue;
+    margin-top: 1rem;
+}
+
+p{
+
+font-family: arial;
+
+}
+
+
+.imgHori{
+    width: 15rem;
+    height: 5rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+}
+
+.imgVerti{
+    margin-left: 4rem;
+    margin-bottom: 2rem;
+}
+
+#marcasf{
+    margin-top: 1rem;
+    border-top: 5px solid lightblue;
+    justify-items: center;
+}
+
+#footer{
+    background-color: rgb(48, 43, 43);
+}
+
+h3{
+    color: white;
+    font-family: arial;
+    font-size: 17px;
+
+}
